@@ -1,0 +1,2 @@
+nazwa = 'Kamil Adam Musial'
+
