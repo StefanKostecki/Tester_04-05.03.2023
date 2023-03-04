@@ -3,3 +3,4 @@
 
 slowo = input('Wpisz slowo ')
 
+liczba_iteracji =
